@@ -3,24 +3,18 @@ INSPIRATIONS
 
 Shout out to all the people in the industry who have put in the hard work on the metrics front, providing visualizations that lead to better conversations and more informed decision making, these being:
 
-Troy Magennis (@t_magennis)
-
-Dan Vacanti (@danvacanti)
-
-Larry Maccherone (@LMaccherone)
-
-Bazil Arden (@bazila)
-
-Dominica DeGrandis (@dominicad)
-
-Cat Swetel (@CatSwetel)
-
-Mattia Battiston (@BattistonMattia)
+* Troy Magennis (@t_magennis)
+* Dan Vacanti (@danvacanti)
+* Larry Maccherone (@LMaccherone)
+* Bazil Arden (@bazila)
+* Dominica DeGrandis (@dominicad)
+* Cat Swetel (@CatSwetel)
+* Mattia Battiston (@BattistonMattia)
 
 PREREQUISITES
 1) Make sure you have analytics installed on your collection (it's free) - https://marketplace.visualstudio.com/items?itemName=ms.vss-analytics
 2) Make sure you have PowerBI desktop downloaded (also free) - https://www.microsoft.com/en-us/download/details.aspx?id=45331
-3) When you install PowerBI downloaded, sign-in using your VSTS credentials
+3) Download the .pbix files based on your VSTS template
 4) Then you're good to get started!
 
 CONNECTIVITY
