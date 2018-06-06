@@ -1,6 +1,8 @@
 # PowerBIDashboard
 INSPIRATIONS
+
 Shout out to all the people in the industry who have put in the hard work on the metrics front, providing visualizations that lead to better conversations and more informed decision making, these being:
+
 Troy Magennis (@t_magennis)
 Dan Vacanti (@danvacanti)
 Larry Maccherone (@LMaccherone)
