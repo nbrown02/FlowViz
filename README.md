@@ -14,14 +14,11 @@ Shout out to all the people in the industry who have put in the hard work on the
 PREREQUISITES
 * [Make sure you have analytics installed on your collection](https://marketplace.visualstudio.com/items?itemName=ms.vss-analytics)
 * [Make sure you have Power BI desktop downloaded](https://www.microsoft.com/en-us/download/details.aspx?id=45331)
-* Download the .pbix files based on your VSTS template
+* Download the .pbit files based on your VSTS template
 * Then you're good to get started!
 
 CONNECTIVITY
-* Go to edit queries -> data source settings
-* Click 'Change source'
-* Add the relevant details for your collection & project
-* Click Close
-* Click 'apply changes'
-* Wait a couple minutes (depending on dataset I make myself a cup of tea!)
+* Open the .pbit file
+* Add your analytics URL - Example format https://ADDYOURCOLLECTIONNAMEHERE.analytics.visualstudio.com/_odata/v1.0-preview
+* Hit load
 * Voila - your dashboard is up to date!
