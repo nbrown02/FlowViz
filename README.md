@@ -1,5 +1,5 @@
 # PowerBIDashboard
-INSPIRATIONS
+Inspirations
 
 Shout out to all the people in the industry who have put in the hard work on the metrics front, providing visualizations that lead to better conversations and more informed decision making, these being:
 
@@ -11,14 +11,17 @@ Shout out to all the people in the industry who have put in the hard work on the
 * [Cat Swetel](https://twitter.com/CatSwetel)
 * [Mattia Battiston](https://twitter.com/BattistonMattia)
 
-PREREQUISITES
+Prerequisites
 * [Make sure you have analytics installed on your collection](https://marketplace.visualstudio.com/items?itemName=ms.vss-analytics)
 * [Make sure you have Power BI desktop downloaded](https://www.microsoft.com/en-us/download/details.aspx?id=45331)
 * Download the .pbit files based on your VSTS template
 * Then you're good to get started!
 
-CONNECTIVITY
+Connectivity
 * Open the .pbit file
 * Add your analytics URL - Example format https://ADDYOURCOLLECTIONNAMEHERE.analytics.visualstudio.com/_odata/v1.0-preview
 * Hit load
 * Voila - your dashboard is up to date!
+
+Want to view a live version?
+* [Check it out here](https://app.powerbi.com/view?r=eyJrIjoiOWM4Mzc5ZmItNjAxNi00MzU1LWFkOTQtODcwOTUwYzI0NWRhIiwidCI6IjUxMzI5NGEwLTNlMjAtNDFiMi1hOTcwLTZkMzBiZjE1NDZmYSIsImMiOjZ9)
