@@ -32,4 +32,4 @@ Shout out to all the people in the industry who have put in the hard work on the
 * [Check it out here](https://app.powerbi.com/view?r=eyJrIjoiOWM4Mzc5ZmItNjAxNi00MzU1LWFkOTQtODcwOTUwYzI0NWRhIiwidCI6IjUxMzI5NGEwLTNlMjAtNDFiMi1hOTcwLTZkMzBiZjE1NDZmYSIsImMiOjZ9)
 
 ### Feedback
-Please email me nicolas.brown@pwc.com for ideas, improvements and feedback.
+Please email nicolas.brown@pwc.com for ideas, improvements and feedback.
