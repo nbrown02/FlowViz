@@ -1,4 +1,8 @@
 # PowerBIDashboard
+
+### What is it?
+This dashboard is for all Agile teams using VSTS, who want to leverage their data to have better conversations and make more informed decisions. It was built due to years of frustration with 'velocity' and other traditional agile metrics. These are centered on flow, as well as providing forecasting techniques you can use to give customers greater confidence/transparency in your delivery.
+
 ### Inspirations
 
 Shout out to all the people in the industry who have put in the hard work on the metrics front, providing visualizations that lead to better conversations and more informed decision making, these being:
@@ -26,3 +30,6 @@ Shout out to all the people in the industry who have put in the hard work on the
 
 ### Want to view a live version?
 * [Check it out here](https://app.powerbi.com/view?r=eyJrIjoiOWM4Mzc5ZmItNjAxNi00MzU1LWFkOTQtODcwOTUwYzI0NWRhIiwidCI6IjUxMzI5NGEwLTNlMjAtNDFiMi1hOTcwLTZkMzBiZjE1NDZmYSIsImMiOjZ9)
+
+### Feedback
+If it adds value, then please use #DataBasedCoaching on Twitter / for feedback reach me on @nbrown02(twitter.com/nbrown02) or email nicolas.brown@pwc.com
