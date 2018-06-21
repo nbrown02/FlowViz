@@ -23,8 +23,8 @@ Shout out to all the people in the industry who have put in the hard work on the
 
 ### Connectivity
 * Open the .pbit file
-* Add your analytics URL - Example format https://ADDYOURCOLLECTIONNAMEHERE.analytics.visualstudio.com/ADDPROJECTNAMEHERE/_odata/v1.0-preview
-* Note - if you are admin of a collection and want multiple projects then you can just use -  https://ADDYOURCOLLECTIONNAMEHERE.analytics.visualstudio.com/_odata/v1.0-preview
+* Add your analytics URL - Example format https://COLLECTIONNAME.analytics.visualstudio.com/PROJECTNAME/_odata/v1.0-preview 
+* Note - if you are admin of a collection and want multiple projects then you can just use -  https://COLLECTIONNAME.analytics.visualstudio.com/_odata/v1.0-preview
 * Hit load
 * Voila - your dashboard is up to date!
 
