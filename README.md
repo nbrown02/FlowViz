@@ -15,6 +15,13 @@ Shout out to all the people in the industry who have put in the hard work on the
 * [Cat Swetel](https://twitter.com/CatSwetel)
 * [Mattia Battiston](https://twitter.com/BattistonMattia)
 
+### Thank yous
+
+Thank you to all the people who helped build this, putting up with my questions and assisting with creating the charts, especially:
+* [Tim Bayer](https://www.linkedin.com/in/tim-bayer-4ab28783/)
+* [Nic Nilsson](https://www.linkedin.com/in/nicholas-nilsson-6b601225/)
+* [Jack Marsh](https://www.linkedin.com/in/jack-marsh-1a1aa564)
+
 ### Prerequisites
 * [Make sure you have analytics installed on your collection](https://marketplace.visualstudio.com/items?itemName=ms.vss-analytics)
 * [Make sure you have Power BI desktop downloaded](https://www.microsoft.com/en-us/download/details.aspx?id=45331)
