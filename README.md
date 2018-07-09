@@ -15,12 +15,13 @@ Shout out to all the people in the industry who have put in the hard work on the
 * [Cat Swetel](https://twitter.com/CatSwetel)
 * [Mattia Battiston](https://twitter.com/BattistonMattia)
 
-### Thank yous
+### Thank you
 
-Thank you to all the people who helped build this, putting up with my questions and assisting with creating the charts, especially:
+Thank you to all the people who helped build this, assisting, answering my questions or just providing inspiration, especially:
 * [Tim Bayer](https://www.linkedin.com/in/tim-bayer-4ab28783/)
 * [Nic Nilsson](https://www.linkedin.com/in/nicholas-nilsson-6b601225/)
 * [Jack Marsh](https://www.linkedin.com/in/jack-marsh-1a1aa564)
+* [Guy In A Cube](https://www.youtube.com/watch?v=JlUfz18cx_w)
 
 ### Prerequisites
 * [Make sure you have analytics installed on your collection](https://marketplace.visualstudio.com/items?itemName=ms.vss-analytics)
