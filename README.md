@@ -38,7 +38,9 @@ Thank you to all the people who helped build this, assisting, answering my quest
 
 ### Screenshots
 ![alt text](https://github.com/nbrown02/FlowViz/raw/master/FlowViz%20Page%201.png)
+
 ![alt text](https://github.com/nbrown02/FlowViz/raw/master/FlowViz%20Page%202.png)
+
 ![alt text](https://github.com/nbrown02/FlowViz/raw/master/FlowViz%20Page%203.png)
 
 * [Want to view a live version? Check it out here](https://app.powerbi.com/view?r=eyJrIjoiOWM4Mzc5ZmItNjAxNi00MzU1LWFkOTQtODcwOTUwYzI0NWRhIiwidCI6IjUxMzI5NGEwLTNlMjAtNDFiMi1hOTcwLTZkMzBiZjE1NDZmYSIsImMiOjZ9)
