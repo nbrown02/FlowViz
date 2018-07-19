@@ -47,4 +47,4 @@ Thank you to all the people who helped build this, assisting, answering my quest
 * [Check it out here](https://app.powerbi.com/view?r=eyJrIjoiOWM4Mzc5ZmItNjAxNi00MzU1LWFkOTQtODcwOTUwYzI0NWRhIiwidCI6IjUxMzI5NGEwLTNlMjAtNDFiMi1hOTcwLTZkMzBiZjE1NDZmYSIsImMiOjZ9)
 
 ### Feedback
-Please email nicolas.brown@pwc.com for ideas, improvements and feedback.
+Please email nicolas.brown@outlook.com for ideas, improvements and feedback.
