@@ -1,5 +1,4 @@
-# FlowViz - Data visualization for teams using Azure DevOps / VSTS
-
+# FlowViz - Data visualization for teams using Azure DevOps
 ### What is it?
 This dashboard is for all Agile teams using Azure DevOps / VSTS, who want to leverage their data to have better conversations and make more informed decisions. It was built due to years of frustration with 'velocity' and other traditional agile metrics. These are centered on flow, as well as providing forecasting techniques you can use to give customers greater confidence/transparency in your delivery.
 
