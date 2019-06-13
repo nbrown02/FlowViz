@@ -1,6 +1,6 @@
 # FlowViz - Data visualization for teams using Azure DevOps
 ### What is it?
-This dashboard is for all Agile teams using Azure DevOps / VSTS, who want to leverage their data to have better conversations and make more informed decisions. It was built due to years of frustration with 'velocity' and other traditional agile metrics. These are centered on flow, as well as providing forecasting techniques you can use to give customers greater confidence/transparency in your delivery.
+This dashboard is for all Agile teams using Azure DevOps (formerly VSTS), who want to leverage their data to have better conversations and make more informed decisions. It was built due to years of frustration with 'velocity' and other traditional agile metrics. These are centered on flow, as well as providing forecasting techniques you can use to give customers greater confidence/transparency in your delivery.
 
 ### Inspirations
 
@@ -36,15 +36,15 @@ Thank you to all the people who helped build this, assisting, answering my quest
 * Hit load
 * Voila - your dashboard is up to date!
 
+### Want to view a live version?
+* [Check it out here](https://app.powerbi.com/view?r=eyJrIjoiZTgxMTI1ZGItNzQwMC00NjJhLTgwMWMtZWE2M2MyOTdlYmQzIiwidCI6IjUxMzI5NGEwLTNlMjAtNDFiMi1hOTcwLTZkMzBiZjE1NDZmYSIsImMiOjZ9)
+
 ### Screenshots
 ![alt text](https://github.com/nbrown02/FlowViz/raw/master/FlowViz%20Page%201.png)
 
 ![alt text](https://github.com/nbrown02/FlowViz/raw/master/FlowViz%20Page%202.png)
 
 ![alt text](https://github.com/nbrown02/FlowViz/raw/master/FlowViz%20Page%203.png)
-
-### Want to view a live version?
-* [Check it out here](https://app.powerbi.com/view?r=eyJrIjoiZTgxMTI1ZGItNzQwMC00NjJhLTgwMWMtZWE2M2MyOTdlYmQzIiwidCI6IjUxMzI5NGEwLTNlMjAtNDFiMi1hOTcwLTZkMzBiZjE1NDZmYSIsImMiOjZ9)
 
 ### Feedback
 Please email nicolas.brown@outlook.com for ideas, improvements and feedback.
