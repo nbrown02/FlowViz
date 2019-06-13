@@ -21,17 +21,18 @@ Thank you to all the people who helped build this, assisting, answering my quest
 * [Nic Nilsson](https://www.linkedin.com/in/nicholas-nilsson-6b601225/)
 * [Jack Marsh](https://www.linkedin.com/in/jack-marsh-1a1aa564)
 * [Guy In A Cube](https://www.youtube.com/watch?v=JlUfz18cx_w)
+* Eric Hulshof
 
 ### Prerequisites
 * [Make sure you have analytics installed on your collection](https://marketplace.visualstudio.com/items?itemName=ms.vss-analytics)
 * [Make sure you have Power BI desktop downloaded](https://www.microsoft.com/en-us/download/details.aspx?id=45331)
-* Download the .pbit files based on your VSTS template
+* Download the .pbit files based on your Azure DevOps template (Scrum = Product Backlog Item / Agile = User Story)
 * Then you're good to get started!
 
 ### Connectivity
 * Open the .pbit file
-* Add your analytics URL - Example format https://COLLECTIONNAME.analytics.visualstudio.com/PROJECTNAME/_odata/v1.0-preview 
-* Note - if you are admin of a collection and want multiple projects then you can just use -  https://COLLECTIONNAME.analytics.visualstudio.com/_odata/v1.0-preview
+* Add your analytics URL - Example format https://analytics.dev.azure.com/{OrganizationName}/{ProjectName}/_odata/v3.0-preview 
+* Note - if you are admin of a collection and want multiple projects then you can just use -  https://analytics.dev.azure.com/{OrganizationName}/_odata/v3.0-preview
 * Hit load
 * Voila - your dashboard is up to date!
 
