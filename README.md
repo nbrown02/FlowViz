@@ -40,11 +40,19 @@ Thank you to all the people who helped build this, assisting, answering my quest
 * [Check it out here](https://app.powerbi.com/view?r=eyJrIjoiZTgxMTI1ZGItNzQwMC00NjJhLTgwMWMtZWE2M2MyOTdlYmQzIiwidCI6IjUxMzI5NGEwLTNlMjAtNDFiMi1hOTcwLTZkMzBiZjE1NDZmYSIsImMiOjZ9)
 
 ### Screenshots
-![alt text](https://github.com/nbrown02/FlowViz/raw/master/FlowViz%20Page%201.png)
+![alt text](https://raw.githubusercontent.com/nbrown02/FlowViz/master/FlowViz%20Page%201.png)
 
-![alt text](https://github.com/nbrown02/FlowViz/raw/master/FlowViz%20Page%202.png)
+![alt text](https://raw.githubusercontent.com/nbrown02/FlowViz/master/FlowViz%20Page%201%20(tooltip).png)
 
-![alt text](https://github.com/nbrown02/FlowViz/raw/master/FlowViz%20Page%203.png)
+![alt text](https://raw.githubusercontent.com/nbrown02/FlowViz/master/FlowViz%20Page%202.png)
+
+![alt text](https://raw.githubusercontent.com/nbrown02/FlowViz/master/FlowViz%20Page%203.png)
+
+![alt text](https://raw.githubusercontent.com/nbrown02/FlowViz/master/FlowViz%20Page%204.png)
+
+![alt text](https://raw.githubusercontent.com/nbrown02/FlowViz/master/FlowViz%20Page%205.png)
+
+![alt text](https://raw.githubusercontent.com/nbrown02/FlowViz/master/FlowViz%20Page%206.png)
 
 ### Feedback
 Please email nicolas.brown@outlook.com for ideas, improvements and feedback.
