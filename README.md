@@ -21,7 +21,7 @@ Thank you to all the people who helped build this, assisting, answering my quest
 * [Nic Nilsson](https://www.linkedin.com/in/nicholas-nilsson-6b601225/)
 * [Jack Marsh](https://www.linkedin.com/in/jack-marsh-1a1aa564)
 * [Guy In A Cube](https://www.youtube.com/watch?v=JlUfz18cx_w)
-* Eric Hulshof
+* [Eric Hulshof](https://www.linkedin.com/in/eric-hulshof-485a0868/)
 
 ### Prerequisites
 * [Make sure you have analytics installed on your collection](https://marketplace.visualstudio.com/items?itemName=ms.vss-analytics)
