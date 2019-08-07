@@ -3,9 +3,9 @@
 This dashboard is for all Agile teams using Azure DevOps (formerly VSTS), who want to leverage their data to have better conversations and make more informed decisions. It was built due to years of frustration with 'velocity' and other traditional agile metrics. These are centered on flow, as well as providing forecasting techniques you can use to give customers greater confidence/transparency in your delivery.
 
 ### Prerequisites
-* [Make sure you have analytics installed on your collection](https://marketplace.visualstudio.com/items?itemName=ms.vss-analytics)
+* [Check your process template in Azure DevOps](https://docs.microsoft.com/en-us/azure/devops/boards/work-items/guidance/choose-process?view=azure-devops&tabs=basic-process)
 * [Make sure you have Power BI desktop downloaded](https://www.microsoft.com/en-us/download/details.aspx?id=45331)
-* Download the .pbit files based on your Azure DevOps template (Scrum = Product Backlog Item / Agile = User Story)
+* Download the .pbit files based on your Azure DevOps template (Scrum or Agile - inherited processes also work fine)
 * Then you're good to get started!
 
 ### Connectivity
