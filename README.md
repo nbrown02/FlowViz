@@ -31,23 +31,11 @@ This dashboard is for all Agile teams using Azure DevOps (formerly VSTS), who wa
 
 ![alt text](https://raw.githubusercontent.com/nbrown02/FlowViz/master/FlowViz%20Page%205.png)
 
-
-
 ![alt text](https://raw.githubusercontent.com/nbrown02/FlowViz/master/FlowViz%20Page%206.png)
 
 ### Feedback
+FlowViz is built and maintained by [Nicolas Brown](https://www.nicolasbrown.co.uk/) and is published using [Agile Extensions](https://www.agileextensions.com/) for assistance (big thank you to them!)
 Please email nicolas.brown@outlook.com for ideas, improvements and feedback.
-
-### Inspirations
-
-Shout out to all the people in the industry who have put in the hard work on the metrics front, providing visualizations that lead to better conversations and more informed decision making, these being:
-
-* [Troy Magennis](https://twitter.com/t_magennis)
-* [Dan Vacanti](https://twitter.com/danvacanti)
-* [Larry Maccherone](https://twitter.com/LMaccherone)
-* [Bazil Arden](https://twitter.com/bazila)
-* [Dominica DeGrandis](https://twitter.com/dominicad)
-* [Mattia Battiston](https://twitter.com/BattistonMattia)
 
 ### Thank you
 
