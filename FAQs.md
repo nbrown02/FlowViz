@@ -1,6 +1,6 @@
-**FAQs**
+#FAQs
 
-**How is lead time/cycle time calculated?**
+###How is lead time/cycle time calculated?
 
 Lead time measures the total time elapsed from the creation of work items to
 their completion.
@@ -11,14 +11,14 @@ they begin actively working on them.
 The following diagram illustrates how Lead Time differs from Cycle Time in the
 context of Azure DevOps.
 
-![https://docs.microsoft.com/en-us/azure/devops/report/dashboards/_img/cycle-lead-time-concept-intro.png?view=azure-devops](media/7dbf0978a294c0db379de8badee1bf24.png)
+![Alt text](https://docs.microsoft.com/en-us/azure/devops/report/dashboards/_img/cycle-lead-time-concept-intro.png)
 
 Lead time is calculated from work item creation to entering a completed state.
 
 Cycle time is calculated from a work item first entering an In Progress state to
 entering a Completed state.
 
-**Why does my scatter chart have white spaces?**
+###Why does my scatter chart have white spaces?
 
 Unfortunately, Power BI does not like date on the x-axis with a scatter plot -
 using the CompletedDate column will present an error message. The workaround for
@@ -28,17 +28,7 @@ December 2019, it would be 20191204 or 20,191,204. Due to this being treated as
 a ‘number’ it creates these white spaces which you will likely see in your
 charts.
 
-**How can I filter by each sprint/iteration?**
-
-Filtering by sprint/iteration is not included by default (Agile ≠ Scrum) within
-the dashboard, however the Iterations table is included in the dataset. If you
-want to add a slicer by Iteration path, simply copy the steps below:
-
-(Add GIF)
-
-Then you can add a sprint/iteration filter to your charts.
-
-**Why don’t you have velocity in this dashboard?**
+###Why don’t you have velocity in this dashboard?
 
 Velocity (sum of effort/story points) is a metric that is easily abused/gamed
 and, through my years as a practitioner, I’ve found it to be pretty useless as a
@@ -52,7 +42,7 @@ story points, they want a language that makes sense, not some obscure voodoo :)
 This dashboard is all centred on flow and transparency, in a language that is
 simpler to digest, hence why velocity is excluded.
 
-**Can I add technical metrics?**
+###Can I add technical metrics?
 
 Technical metrics are available in v3.0 of the Odata API. However, in their
 current format I’ve found them to be limited in the value they can bring. You
@@ -62,7 +52,7 @@ If you’re looking for things such as the DORA software delivery performance
 metrics (Lead time for changes, Deployment frequency, Time to restore service,
 Change failure rate) these are unfortunately not \* currently \* available.
 
-**How I do I change the forecasting inputs/outputs?**
+###How I do I change the forecasting inputs/outputs?
 
 Changing the forecasting visuals is relatively simple to do. Reasons for this
 could be if you don’t have ‘enough’ data yet but have a reasonable amount. For
