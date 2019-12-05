@@ -1,4 +1,4 @@
-*FAQs
+#FAQs
 
 **How is lead time/cycle time calculated?
 
