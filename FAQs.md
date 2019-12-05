@@ -1,6 +1,6 @@
-**FAQs
+*FAQs
 
-***How is lead time/cycle time calculated?
+**How is lead time/cycle time calculated?
 
 Lead time measures the total time elapsed from the creation of work items to their completion.
 
