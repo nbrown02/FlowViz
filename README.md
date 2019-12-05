@@ -23,7 +23,7 @@ This dashboard is for all Agile teams using Azure DevOps (formerly VSTS), who wa
 
 ![alt text](https://raw.githubusercontent.com/nbrown02/FlowViz/master/FlowViz%20Page%201%20(tooltip).png)
 
-![alt text](https://raw.githubusercontent.com/nbrown02/FlowViz/master/FlowViz%20Page%202.png)
+![alt text](https://raw.githubusercontent.com/nbrown02/FlowViz/master/FlowViz%20Page%201%20(button).png)
 
 ![alt text](https://raw.githubusercontent.com/nbrown02/FlowViz/master/FlowViz%20Page%203.png)
 
