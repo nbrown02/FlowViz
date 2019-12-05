@@ -18,9 +18,9 @@ This dashboard is for all Agile teams using Azure DevOps (formerly VSTS), who wa
 ### Want to view a live version?
 * [Check it out here](https://app.powerbi.com/view?r=eyJrIjoiZTgxMTI1ZGItNzQwMC00NjJhLTgwMWMtZWE2M2MyOTdlYmQzIiwidCI6IjUxMzI5NGEwLTNlMjAtNDFiMi1hOTcwLTZkMzBiZjE1NDZmYSIsImMiOjZ9)
 
-### FAQs 
+### Wiki 
 
-For questions on charts, how to use them and other questions check out the [FAQs page]().
+For questions on charts, how to use them and other questions check out the [Wiki](https://github.com/nbrown02/FlowViz/wiki/FlowViz-Wiki).
 
 ### Screenshots
 ![alt text](https://raw.githubusercontent.com/nbrown02/FlowViz/master/FlowViz%20Page%201.png)
