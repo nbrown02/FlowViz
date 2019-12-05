@@ -23,17 +23,17 @@ This dashboard is for all Agile teams using Azure DevOps (formerly VSTS), who wa
 For questions on charts, how to use them and other questions check out the [Wiki](https://github.com/nbrown02/FlowViz/wiki/FlowViz-Wiki).
 
 ### Screenshots
-![alt text](https://raw.githubusercontent.com/nbrown02/FlowViz/master/FlowViz%20Page%201.png)
+![alt text](https://raw.githubusercontent.com/nbrown02/FlowViz/master/Screenshots/FlowViz%20Page%201.png)
 
-![alt text](https://raw.githubusercontent.com/nbrown02/FlowViz/master/FlowViz%20Page%201%20(tooltip).png)
+![alt text](https://raw.githubusercontent.com/nbrown02/FlowViz/master/Screenshots/FlowViz%20Page%201%20(tooltip).png)
 
-![alt text](https://raw.githubusercontent.com/nbrown02/FlowViz/master/FlowViz%20Page%201%20(button).png)
+![alt text](https://raw.githubusercontent.com/nbrown02/FlowViz/master/Screenshots/FlowViz%20Page%201%20(button).png)
 
-![alt text](https://raw.githubusercontent.com/nbrown02/FlowViz/master/FlowViz%20Page%203.png)
+![alt text](https://raw.githubusercontent.com/nbrown02/FlowViz/master/Screenshots/FlowViz%20Page%203.png)
 
-![alt text](https://raw.githubusercontent.com/nbrown02/FlowViz/master/FlowViz%20Page%204.png)
+![alt text](https://raw.githubusercontent.com/nbrown02/FlowViz/master/Screenshots/FlowViz%20Page%204.png)
 
-![alt text](https://raw.githubusercontent.com/nbrown02/FlowViz/master/FlowViz%20Page%205.png)
+![alt text](https://raw.githubusercontent.com/nbrown02/FlowViz/master/Screenshots/FlowViz%20Page%205.png)
 
 ### Feedback
 FlowViz is built and maintained by [Nicolas Brown](https://www.nicolasbrown.co.uk/) and is published using [Agile Extensions](https://www.agileextensions.com/) for assistance (big thank you to them!)
