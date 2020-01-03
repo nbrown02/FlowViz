@@ -27,8 +27,6 @@ For questions on charts, how to use them and other questions check out the [Wiki
 
 ![alt text](https://raw.githubusercontent.com/nbrown02/FlowViz/master/Screenshots/FlowViz%20Page%201%20(tooltip).png)
 
-![alt text](https://raw.githubusercontent.com/nbrown02/FlowViz/master/Screenshots/FlowViz%20Page%201%20(button).png)
-
 ![alt text](https://raw.githubusercontent.com/nbrown02/FlowViz/master/Screenshots/FlowViz%20Page%202.png)
 
 ![alt text](https://raw.githubusercontent.com/nbrown02/FlowViz/master/Screenshots/FlowViz%20Page%203.png)
