@@ -4,7 +4,7 @@ This dashboard is for all Agile teams using Azure DevOps (formerly VSTS), who wa
 
 ### Prerequisites
 * [Check your process template in Azure DevOps](https://docs.microsoft.com/en-us/azure/devops/boards/work-items/guidance/choose-process?view=azure-devops&tabs=basic-process)
-* [Make sure you have the latest version of Power BI Desktop](https://www.microsoft.com/en-us/download/details.aspx?id=45331)
+* [Make sure you have the latest version of Power BI Desktop](https://aka.ms/pbiSingleInstaller)
 * Download the .pbit files based on your Azure DevOps template (Scrum or Agile - inherited processes also work fine)
 * Then you're good to get started!
 
