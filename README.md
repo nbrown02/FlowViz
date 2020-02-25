@@ -47,3 +47,4 @@ Thank you to all the people who helped build this, providing feedback and answer
 * [Jack Marsh](https://www.linkedin.com/in/jack-marsh-1a1aa564)
 * [Ravi Nar](https://www.linkedin.com/in/ravinar)
 * [Eric Hulshof](https://www.linkedin.com/in/eric-hulshof-485a0868/)
+* [Bernhard Millauer](https://github.com/SeriousM)
