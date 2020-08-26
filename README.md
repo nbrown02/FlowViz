@@ -10,8 +10,8 @@ This dashboard is for all Agile teams using Azure DevOps (formerly VSTS), who wa
 
 ### Connectivity
 * Open the .pbit file
-* Add your analytics URL - Example format https://analytics.dev.azure.com/{OrganizationName}/{ProjectName}/_odata/v3.0-preview 
-* Note - if you are admin of a collection and want multiple projects then you can just use -  https://analytics.dev.azure.com/{OrganizationName}/_odata/v3.0-preview
+* Add your analytics URL - Example format https://analytics.dev.azure.com/{OrganizationName}/{ProjectName}/_odata/v3.0
+* Note - if you are admin of a collection and want multiple projects then you can just use -  https://analytics.dev.azure.com/{OrganizationName}/_odata/v3.0
 * Hit load (note: you may get prompted for a login here, choose organisational account and enter your Azure DevOps email)
 * Voila - your dashboard is up to date!
 
