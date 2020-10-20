@@ -4,7 +4,7 @@ This dashboard is for all Agile teams using Azure DevOps (formerly VSTS), who wa
 
 ### Prerequisites
 * [Make sure you have the latest version of Power BI Desktop](https://aka.ms/pbiSingleInstaller)
-* Download the .pbit file based on your preference (Normal or Dark Mode :D )
+* Download the FlowViz Template.pbit file (Dark mode coming soon!) 
 * Then you're good to get started!
 
 ### Connectivity
