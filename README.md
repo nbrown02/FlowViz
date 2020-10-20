@@ -3,15 +3,14 @@
 This dashboard is for all Agile teams using Azure DevOps (formerly VSTS), who want to leverage their data to have better conversations and make more informed decisions. It was built due to years of frustration with 'velocity' and other traditional agile metrics. These are centered on flow, as well as providing forecasting techniques you can use to give customers greater confidence/transparency in your delivery.
 
 ### Prerequisites
-* [Check your process template in Azure DevOps](https://docs.microsoft.com/en-us/azure/devops/boards/work-items/guidance/choose-process?view=azure-devops&tabs=basic-process)
 * [Make sure you have the latest version of Power BI Desktop](https://aka.ms/pbiSingleInstaller)
-* Download the .pbit files based on your Azure DevOps template (Scrum or Agile - inherited processes also work fine)
+* Download the .pbit file based on your preference (Normal or Dark Mode :D )
 * Then you're good to get started!
 
 ### Connectivity
 * Open the .pbit file
-* Add your analytics URL - Example format https://analytics.dev.azure.com/{OrganizationName}/{ProjectName}/_odata/v3.0
-* Note - if you are admin of a collection and want multiple projects then you can just use -  https://analytics.dev.azure.com/{OrganizationName}/_odata/v3.0
+* Add your organization and project name - Example format https://analytics.dev.azure.com/{OrganizationName}/{ProjectName}/_odata/v3.0
+Don't confuse the team name with the project name, a common mistake. If the URL you use on the daily basis is "http://dev.azure.com/Microsoft-UK/AzureDevOpsTeam/Database", then Microsoft-UK is the Organization Name, AzureDevOpsTeam is the project name, Database is the team name.
 * Hit load (note: you may get prompted for a login here, choose organisational account and enter your Azure DevOps email)
 * Voila - your dashboard is up to date!
 
