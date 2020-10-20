@@ -10,7 +10,9 @@ This dashboard is for all Agile teams using Azure DevOps (formerly VSTS), who wa
 ### Connectivity
 * Open the .pbit file
 * Add your organization and project name - Example format https://analytics.dev.azure.com/{OrganizationName}/{ProjectName}/_odata/v3.0
-Don't confuse the team name with the project name, a common mistake. If the URL you use on the daily basis is "http://dev.azure.com/Microsoft-UK/AzureDevOpsTeam/Database", then Microsoft-UK is the Organization Name, AzureDevOpsTeam is the project name, Database is the team name.
+
+Don't confuse the team name with the project name, a common mistake. If the URL you use on a daily basis is "http://dev.azure.com/Microsoft-UK/AzureDevOpsTeam/Database", then Microsoft-UK is the Organization Name, AzureDevOpsTeam is the Project name, Database is the team name.
+
 * Hit load (note: you may get prompted for a login here, choose organisational account and enter your Azure DevOps email)
 * Voila - your dashboard is up to date!
 
