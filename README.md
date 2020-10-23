@@ -16,9 +16,6 @@ Don't confuse the team name with the project name, a common mistake. If the URL 
 * Hit load (note: you may get prompted for a login here, choose organisational account and enter your Azure DevOps email)
 * Voila - your dashboard is up to date!
 
-### Want to view a live version?
-* [Check it out here](https://app.powerbi.com/view?r=eyJrIjoiZTgxMTI1ZGItNzQwMC00NjJhLTgwMWMtZWE2M2MyOTdlYmQzIiwidCI6IjUxMzI5NGEwLTNlMjAtNDFiMi1hOTcwLTZkMzBiZjE1NDZmYSIsImMiOjZ9)
-
 ### Wiki/Guidance
 
 For questions on charts, how to use them and other questions check out the [Wiki](https://github.com/nbrown02/FlowViz/wiki/FlowViz-Wiki).
