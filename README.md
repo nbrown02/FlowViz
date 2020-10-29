@@ -42,6 +42,7 @@ FlowViz is built and maintained by [Nicolas Brown](https://www.nicolasbrown.co.u
 Please email nicolas.brown@outlook.com for ideas, improvements and feedback.
 
 You can also ask in the #flowviz channel in the Azure DevOps Club Slack community:
+
 [![Image](https://agile-extensions.gallerycdn.vsassets.io/extensions/agile-extensions/flowviz/1.0.11/1603967401335/images/join-the-club.png)](https://www.azuredevops.club/?utm_source=marketplace-flowviz)
 
 ### Thank you
