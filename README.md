@@ -45,6 +45,8 @@ You can also ask in the #flowviz channel in the Azure DevOps Club Slack communit
 
 ![alt text](https://agile-extensions.gallerycdn.vsassets.io/extensions/agile-extensions/flowviz/1.0.11/1603967401335/images/join-the-club.png)
 
+[![Image](https://agile-extensions.gallerycdn.vsassets.io/extensions/agile-extensions/flowviz/1.0.11/1603967401335/images/join-the-club.png)](https://www.azuredevops.club/?utm_source=marketplace-flowviz)
+
 ### Thank you
 
 Thank you to all the people who helped build this, providing feedback and answering my questions especially:
