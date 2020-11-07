@@ -15,7 +15,7 @@ Don't confuse the team name with the project name, a common mistake. If the URL 
 
 * Hit load 
 * If you are prompted for a login, you can choose:
-  - 'Organizational' and enter your Organization email and sign in
+  - 'Organizational' and enter your Organization email/password (if required) and sign in
   - 'Basic' and use a Personal Access Token (PAT) to login, entering it in the password field (user can be left as blank)
 
   ![alt text](https://docs.microsoft.com/en-us/azure/devops/report/powerbi/media/authentication-7.png?view=azure-devops)
