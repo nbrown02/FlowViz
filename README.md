@@ -13,8 +13,14 @@ This dashboard is for all Agile teams using Azure DevOps (formerly VSTS), who wa
 
 Don't confuse the team name with the project name, a common mistake. If the URL you use is "http://dev.azure.com/Microsoft-UK/AzureDevOpsTeam/Database", then Microsoft-UK is the Organization Name, AzureDevOpsTeam is the Project name, Database is the team name.
 
-* Hit load (note: you may get prompted for a login here, choose organisational account and enter your Azure DevOps email)
-* Voila - your dashboard is up to date!
+* Hit load 
+* If you are prompted for a login, you can choose:
+  - 'Organizational' and enter your Organization email and sign in
+  - 'Basic' and use a Personal Access Token (PAT) to login, entering it in the password field (user can be left as blank)
+
+  ![alt text](https://docs.microsoft.com/en-us/azure/devops/report/powerbi/media/authentication-7.png?view=azure-devops)
+
+* Once signed in hit 'Load' and wait for your charts to populate!
 
 ### Wiki/Guidance
 
