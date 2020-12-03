@@ -58,6 +58,7 @@ You can also ask in the #flowviz channel in the Azure DevOps Club Slack communit
 Thank you to all the people who helped build this, providing feedback and answering my questions especially:
 * [Tim Bayer](https://www.linkedin.com/in/tim-bayer-4ab28783/)
 * [Nic Nilsson](https://www.linkedin.com/in/nicholas-nilsson-6b601225/)
+* [Jason Padman](https://www.linkedin.com/in/jasonpadman)
 * [Jack Marsh](https://www.linkedin.com/in/jack-marsh-1a1aa564)
 * [Ravi Nar](https://www.linkedin.com/in/ravinar)
 * [Eric Hulshof](https://www.linkedin.com/in/eric-hulshof-485a0868/)
