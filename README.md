@@ -31,6 +31,8 @@ If you want to embed these charts into Azure DevOps, check out [this brilliant b
 ### Screenshots
 ![alt text](https://raw.githubusercontent.com/nbrown02/FlowViz/main/Screenshots/FlowViz%20Page%201.png)
 
+![alt text](https://raw.githubusercontent.com/nbrown02/FlowViz/main/Screenshots/FlowViz.gif)
+
 ![alt text](https://raw.githubusercontent.com/nbrown02/FlowViz/main/Screenshots/FlowViz%20Page%201%20(tooltip).png)
 
 ![alt text](https://raw.githubusercontent.com/nbrown02/FlowViz/main/Screenshots/FlowViz%20Page%201%20(tooltip2).png)
