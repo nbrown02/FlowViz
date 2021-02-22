@@ -26,7 +26,7 @@ Don't confuse the team name with the project name, a common mistake. If the URL 
 
 For questions on charts, how to use them and other questions check out the [Wiki](https://github.com/nbrown02/FlowViz/wiki).
 
-If you want to embed these charts into Azure DevOps, check out [this brilliant blog for guidance](https://donaldonsoftware.azurewebsites.net/2020/04/Publishing-a-PowerBI-Report-to-an-Azure-DevOps-Dashboard/).
+If you want to embed these charts into Azure DevOps, check out [this brilliant blog for guidance]https://www.donaldonsoftware.com/2020/04/Publishing-a-PowerBI-Report-to-an-Azure-DevOps-Dashboard/).
 
 ### Screenshots
 ![alt text](https://raw.githubusercontent.com/nbrown02/FlowViz/main/Screenshots/FlowViz.gif)
