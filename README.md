@@ -13,7 +13,7 @@ This dashboard is for all Agile teams using Azure DevOps (formerly VSTS), who wa
 
 ### Connectivity
 * Open the .pbit file
-* Add your organization and project name
+* Add your organization and project name (and your server details for AzDO Server version)
 
 Don't confuse the team name with the project name, a common mistake. If the URL you use is "http://dev.azure.com/Microsoft-UK/AzureDevOpsTeam/Database", then Microsoft-UK is the Organization Name, AzureDevOpsTeam is the Project name, Database is the team name.
 
