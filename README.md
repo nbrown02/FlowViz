@@ -5,10 +5,10 @@ This dashboard is for all Agile teams using Azure DevOps (formerly VSTS), who wa
 ### Prerequisites
 * [Make sure you have the latest version of Power BI Desktop](https://aka.ms/pbiSingleInstaller)
 * Download the appropriate template file:
-  - [FlowViz Template](https://github.com/nbrown02/FlowViz/raw/main/FlowViz.pbit)
+  - [FlowViz](https://github.com/nbrown02/FlowViz/raw/main/FlowViz.pbit)
   - [Dark Mode](https://github.com/nbrown02/FlowViz/raw/main/FlowViz%20(Dark%20Mode).pbit)
   - [Organizational Level](https://github.com/nbrown02/FlowViz/raw/main/FlowViz%20(Organization%20Level).pbit) (covers across all projects/teams in your organisation)
-  - [Azure DevOps Server](https://github.com/nbrown02/FlowViz/raw/main/FlowViz%20(Azure%20DevOps%20Server).pbit)
+  - [Azure DevOps Server Template](https://github.com/nbrown02/FlowViz/raw/main/FlowViz%20(Azure%20DevOps%20Server).pbit)
 * Then you're good to get started!
 
 ### Connectivity
