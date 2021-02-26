@@ -9,7 +9,6 @@ This dashboard is for all Agile teams using Azure DevOps (formerly VSTS), who wa
   - [Dark Mode](https://github.com/nbrown02/FlowViz/raw/main/FlowViz%20(Dark%20Mode).pbit)
   - [Organizational Level](https://github.com/nbrown02/FlowViz/raw/main/FlowViz%20(Organization%20Level).pbit) (covers across all projects/teams in your organisation)
   - [Azure DevOps Server](https://github.com/nbrown02/FlowViz/raw/main/FlowViz%20(Azure%20DevOps%20Server).pbit)
-  - 'Basic' and use a Personal Access Token (PAT) to login, entering it in the password field (user can be left as blank)
 * Then you're good to get started!
 
 ### Connectivity
