@@ -4,7 +4,7 @@ This dashboard is for all Agile teams using Azure DevOps (formerly VSTS), who wa
 
 ### Prerequisites
 * [Make sure you have the latest version of Power BI Desktop](https://aka.ms/pbiSingleInstaller)
-* Download the [FlowViz Template](https://github.com/nbrown02/FlowViz/raw/main/FlowViz.pbit), [Dark Mode](https://github.com/nbrown02/FlowViz/raw/main/FlowViz%20(Dark%20Mode).pbit) or if you want to view data for all projects and teams in your collection use the [Organization Level Template](https://github.com/nbrown02/FlowViz/raw/main/FlowViz%20(Organization%20Level).pbit)
+* Download the [FlowViz Template](https://github.com/nbrown02/FlowViz/raw/main/FlowViz.pbit), [Dark Mode](https://github.com/nbrown02/FlowViz/raw/main/FlowViz%20(Dark%20Mode).pbit), [Organization Level Template](https://github.com/nbrown02/FlowViz/raw/main/FlowViz%20(Organization%20Level).pbit) (for charts spanning for all projects and teams in your collection) or the [Azure DevOps Server Template](https://github.com/nbrown02/FlowViz/raw/main/FlowViz%20(Azure%20DevOps%20Server).pbit)
 * Then you're good to get started!
 
 ### Connectivity
@@ -61,3 +61,4 @@ Thank you to all the people who helped build this, providing feedback and answer
 * [Ravi Nar](https://www.linkedin.com/in/ravinar)
 * [Eric Hulshof](https://www.linkedin.com/in/eric-hulshof-485a0868/)
 * [Bernhard Millauer](https://github.com/SeriousM)
+* [Vincent Quach](https://www.linkedin.com/in/vincentquach)
