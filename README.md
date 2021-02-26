@@ -7,7 +7,7 @@ This dashboard is for all Agile teams using Azure DevOps (formerly VSTS), who wa
 * Download the appropriate template file:
   - [FlowViz](https://github.com/nbrown02/FlowViz/raw/main/FlowViz.pbit)
   - [Dark Mode](https://github.com/nbrown02/FlowViz/raw/main/FlowViz%20(Dark%20Mode).pbit)
-  - [Organizational Level](https://github.com/nbrown02/FlowViz/raw/main/FlowViz%20(Organization%20Level).pbit) (covers across all projects/teams in your organisation)
+  - [Organizational Level](https://github.com/nbrown02/FlowViz/raw/main/FlowViz%20(Organization%20Level).pbit) (covers all projects/teams in your organisation)
   - [Azure DevOps Server Template](https://github.com/nbrown02/FlowViz/raw/main/FlowViz%20(Azure%20DevOps%20Server).pbit)
 * Then you're good to get started!
 
