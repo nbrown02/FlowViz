@@ -26,7 +26,7 @@ Azure DevOps Services:
 Azure DevOps Server:
 ![alt text](https://raw.githubusercontent.com/nbrown02/FlowViz/main/Screenshots/AzDO%20Server%20Login.png)
 
-* Hit load 
+* Hit 'Load' 
 * If you are prompted for a login, you can choose:
   - 'Organizational' and enter your Organization email/password (if required) and sign in
   - 'Basic' and use a Personal Access Token (PAT) to login, entering it in the password field (user can be left as blank)
