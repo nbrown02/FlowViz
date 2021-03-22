@@ -17,8 +17,12 @@ This dashboard is for all Agile teams using Azure DevOps (formerly VSTS), who wa
 
 Don't confuse the team name with the project name, a common mistake. If the URL you use is "http://dev.azure.com/Microsoft-UK/AzureDevOpsTeam/Database", then Microsoft-UK is the Organization Name, AzureDevOpsTeam is the Project name, Database is the team name.
 
-* It should look something like this:
+* It should then look something like this:
+Azure DevOps Services
+![alt text](https://raw.githubusercontent.com/nbrown02/FlowViz/main/Screenshots/AzDO%20Services%20Login.png)
 
+Azure DevOps Server
+![alt text](https://raw.githubusercontent.com/nbrown02/FlowViz/main/Screenshots/AzDO%20Server%20Login.png)
 
 * Hit load 
 * If you are prompted for a login, you can choose:
