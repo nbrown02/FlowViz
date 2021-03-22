@@ -5,17 +5,20 @@ This dashboard is for all Agile teams using Azure DevOps (formerly VSTS), who wa
 ### Prerequisites
 * [Make sure you have the latest version of Power BI Desktop](https://aka.ms/pbiSingleInstaller)
 * Download the appropriate template file:
-  - [FlowViz](https://github.com/nbrown02/FlowViz/raw/main/FlowViz.pbit)
-  - [Dark Mode](https://github.com/nbrown02/FlowViz/raw/main/FlowViz%20(Dark%20Mode).pbit)
-  - [Organizational](https://github.com/nbrown02/FlowViz/raw/main/FlowViz%20(Organization%20Level).pbit) (covers all projects/teams in your organisation)
-  - [Azure DevOps Server](https://github.com/nbrown02/FlowViz/raw/main/FlowViz%20(Azure%20DevOps%20Server).pbit)
+  - [FlowViz - Project](https://github.com/nbrown02/FlowViz/raw/main/FlowViz.pbit)
+  - [FlowViz - Organization](https://github.com/nbrown02/FlowViz/raw/main/FlowViz%20(Dark%20Mode).pbit)
 * Then you're good to get started!
 
 ### Connectivity
 * Open the .pbit file
-* Add your organization and project name (and your server details for AzDO Server version)
+* Select http/https (only choose http if your Azure DevOps Server is HTTP)
+* Add the Analytics / Azure DevOps Server URL - for Azure DevOps services enter 'analytics.dev.azure.com' / for Azure DevOps Server enter your server details
+* Add your organization and project name
 
 Don't confuse the team name with the project name, a common mistake. If the URL you use is "http://dev.azure.com/Microsoft-UK/AzureDevOpsTeam/Database", then Microsoft-UK is the Organization Name, AzureDevOpsTeam is the Project name, Database is the team name.
+
+* It should look something like this:
+
 
 * Hit load 
 * If you are prompted for a login, you can choose:
