@@ -75,3 +75,4 @@ Thank you to all the people who helped build this, providing feedback and answer
 * [Eric Hulshof](https://www.linkedin.com/in/eric-hulshof-485a0868/)
 * [Bernhard Millauer](https://github.com/SeriousM)
 * [Vincent Quach](https://www.linkedin.com/in/vincentquach)
+* [Yunior A. Hernández Andrade](https://www.linkedin.com/in/yuniorhdez)
