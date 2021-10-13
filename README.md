@@ -60,6 +60,8 @@ If you want to embed these charts into Azure DevOps, check out [this brilliant b
 FlowViz is built and maintained by [Nicolas Brown](https://www.nicolasbrown.co.uk/) and is published using [Agile Extensions](https://www.agileextensions.com/) for assistance (big thank you to them!)
 Please email nicolas.brown@outlook.com for ideas, improvements and feedback.
 
+If FlowViz has added value to your teams and/or organisation, please consider [sponsoring my work](https://github.com/sponsors/nbrown02) :)
+
 You can also ask in the #flowviz channel in the Azure DevOps Club Slack community:
 
 [![Image](https://agile-extensions.gallerycdn.vsassets.io/extensions/agile-extensions/flowviz/1.0.11/1603967401335/images/join-the-club.png)](https://www.azuredevops.club/?utm_source=github-flowviz&utm_medium=github&utm_campaign=community)
