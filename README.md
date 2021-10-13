@@ -56,11 +56,12 @@ If you want to embed these charts into Azure DevOps, check out [this brilliant b
 
 ![alt text](https://raw.githubusercontent.com/nbrown02/FlowViz/main/Screenshots/FlowViz%20Page%206.png)
 
+### Costs
+FlowViz has been, and always will be free. However if FlowViz has added value to your teams and/or organisation, please consider [sponsoring my work](https://github.com/sponsors/nbrown02) :)
+
 ### Feedback
 FlowViz is built and maintained by [Nicolas Brown](https://www.nicolasbrown.co.uk/) and is published using [Agile Extensions](https://www.agileextensions.com/) for assistance (big thank you to them!)
 Please email nicolas.brown@outlook.com for ideas, improvements and feedback.
-
-If FlowViz has added value to your teams and/or organisation, please consider [sponsoring my work](https://github.com/sponsors/nbrown02) :)
 
 You can also ask in the #flowviz channel in the Azure DevOps Club Slack community:
 
