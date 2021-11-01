@@ -9,6 +9,9 @@ This dashboard is for all Agile teams using Azure DevOps (formerly VSTS), who wa
   - [FlowViz - Organization](https://github.com/nbrown02/FlowViz/raw/main/FlowViz%20(Organization).pbit) (for all Projects within an Organization)
 * Then you're good to get started!
 
+### Costs
+FlowViz has been, and always will be free. However if FlowViz has added value to your teams and/or organisation, please consider [sponsoring my work](https://github.com/sponsors/nbrown02) :)
+
 ### Connectivity
 * Open the .pbit file
 * Select http/https (only choose http if your Azure DevOps Server is HTTP)
@@ -55,9 +58,6 @@ If you want to embed these charts into Azure DevOps, check out [this brilliant b
 ![alt text](https://raw.githubusercontent.com/nbrown02/FlowViz/main/Screenshots/FlowViz%20Page%205.png)
 
 ![alt text](https://raw.githubusercontent.com/nbrown02/FlowViz/main/Screenshots/FlowViz%20Page%206.png)
-
-### Costs
-FlowViz has been, and always will be free. However if FlowViz has added value to your teams and/or organisation, please consider [sponsoring my work](https://github.com/sponsors/nbrown02) :)
 
 ### Feedback
 FlowViz is built and maintained by [Nicolas Brown](https://www.nicolasbrown.co.uk/) and is published using [Agile Extensions](https://www.agileextensions.com/) for assistance (big thank you to them!)
