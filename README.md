@@ -11,6 +11,7 @@ This dashboard is for all Agile teams using Azure DevOps (formerly VSTS), who wa
 
 ### Costs
 FlowViz has been, and always will be free. 
+
 However if FlowViz has added value to your teams and/or organisation, please consider [sponsoring my work](https://github.com/sponsors/nbrown02) :)
 
 ### Connectivity
