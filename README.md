@@ -34,7 +34,7 @@ Azure DevOps Server:
 * Hit 'Load' 
 * If you are prompted for a login, you can choose:
   - 'Organizational' and enter your Organization email/password (if required) and sign in
-  - 'Basic' and use a Personal Access Token (PAT) to login, entering it in the password field (user can be left as blank)
+  - 'Basic' and use a Personal Access Token (PAT) to login, entering it in the password field (user can be left as blank - make sure it has 'Read' access to Analytics)
 
   ![alt text](https://docs.microsoft.com/en-us/azure/devops/report/powerbi/media/authentication-7.png?view=azure-devops)
 
