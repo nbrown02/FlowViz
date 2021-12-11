@@ -59,8 +59,6 @@ If you want to embed these charts into Azure DevOps, check out [this brilliant b
 
 ![alt text](https://raw.githubusercontent.com/nbrown02/FlowViz/main/Screenshots/FlowViz%20Page%205.png)
 
-![alt text](https://raw.githubusercontent.com/nbrown02/FlowViz/main/Screenshots/FlowViz%20Page%206.png)
-
 ### Feedback
 FlowViz is built and maintained by [Nicolas Brown](https://www.nicolasbrown.co.uk/) and is published using [Agile Extensions](https://www.agileextensions.com/) for assistance (big thank you to them!)
 Please email nicolas.brown@outlook.com for ideas, improvements and feedback.
