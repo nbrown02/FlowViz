@@ -1,6 +1,6 @@
 # FlowViz - Metrics for teams using Azure DevOps
 ### What is it?
-This dashboard is for all Agile teams using Azure DevOps, Azure DevOps Server and/or TFS data, who want to leverage their data to have better conversations and make more informed decisions. It was built due to years of frustration with 'velocity' and other traditional agile metrics. These are centered on flow, as well as providing forecasting techniques you can use to give customers greater confidence/transparency in your delivery.
+This dashboard is for all Agile teams using Azure DevOps, Azure DevOps Server and/or TFS, who want to leverage their data to have better conversations and make more informed decisions. It was built due to years of frustration with 'velocity' and other traditional agile metrics. These are centered on flow, as well as providing forecasting techniques you can use to give customers greater confidence/transparency in your delivery.
 
 ### Prerequisites
 * [Make sure you have the latest version of Power BI Desktop](https://aka.ms/pbiSingleInstaller)
