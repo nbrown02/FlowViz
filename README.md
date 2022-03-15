@@ -71,7 +71,11 @@ You can also ask in the #flowviz channel in the Azure DevOps Club Slack communit
 
 ### Thank you
 
-Thank you to all the people who helped build this, providing feedback and answering my questions especially:
+Thank you to all the people who helped inspire and/or build this, providing feedback and answering my questions especially:
+* [Larry Maccherone](https://twitter.com/LMaccherone)
+* [Troy Magennis](https://twitter.com/t_magennis)
+* [Daniel Vacanti](https://twitter.com/danvacanti)
+* [Prateek Singh](https://twitter.com/singhpr)
 * [Tim Bayer](https://www.linkedin.com/in/tim-bayer-4ab28783/)
 * [Nic Nilsson](https://www.linkedin.com/in/nicholas-nilsson-6b601225/)
 * [Jason Padman](https://www.linkedin.com/in/jasonpadman)
