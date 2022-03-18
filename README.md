@@ -9,10 +9,8 @@ This dashboard is for all Agile teams using Azure DevOps, Azure DevOps Server an
   - [FlowViz - Organization](https://github.com/nbrown02/FlowViz/raw/main/FlowViz%20(Organization).pbit) (for all Projects within an Organization)
 * Then you're good to get started!
 
-### Costs
-FlowViz has been, and always will be free. 
-
-However if FlowViz has added value to your teams and/or organisation, please consider [sponsoring my work](https://github.com/sponsors/nbrown02) :)
+### What do these charts mean? How can I learn more?
+There is a [FlowViz Fundamentals course now available](https://flowviz.thinkific.com/courses/fundamentals) - use the code LAUNCH20 for a 20% discount
 
 ### Connectivity
 * Open the .pbit file
