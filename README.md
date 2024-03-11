@@ -36,7 +36,7 @@ Azure DevOps Server:
 * Once signed in hit 'Load' and wait for your charts to populate!
 
 ### What do these charts mean? How can I learn more?
-There is a [FlowViz Fundamentals course now available](https://flowviz.thinkific.com/courses/fundamentals) - use the code LAUNCH20 for a 20% discount
+There is a [FlowViz Fundamentals course now available](https://flowviz.thinkific.com/courses/fundamentals)
 
 For questions on charts, how to use them and other questions check out the [Wiki](https://github.com/nbrown02/FlowViz/wiki).
 
