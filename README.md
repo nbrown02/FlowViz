@@ -6,7 +6,7 @@ This dashboard is for all Agile teams using Azure DevOps, Azure DevOps Server an
 * [Make sure you have the latest version of Power BI Desktop](https://aka.ms/pbiSingleInstaller)
 * Download the appropriate template file:
   - [FlowViz - Project](https://github.com/nbrown02/FlowViz/raw/main/FlowViz%20(Project).pbit) (for a single Project)
-  - [FlowViz - Organization](https://github.com/nbrown02/FlowViz/raw/main/FlowViz%20(Organization).pbit) (for all Projects within an Organization)
+  - [FlowViz - Team](https://github.com/nbrown02/FlowViz/raw/main/FlowViz%20(Project).pbit) (for a single team within a Project)
 * Then you're good to get started!
 * Please note: I don’t store, use or have access to any of your data/information. It’s all within your machines/network :)
 
@@ -14,7 +14,7 @@ This dashboard is for all Agile teams using Azure DevOps, Azure DevOps Server an
 * Open the .pbit file
 * Select http/https (only choose http if your Azure DevOps Server is HTTP)
 * Add the Analytics / Azure DevOps Server URL - for Azure DevOps services enter 'analytics.dev.azure.com' / for Azure DevOps Server enter your server details
-* Add your organization and project name
+* Add your organization / project name / team name (if using the team name template - also ensure the team name exactly matches that within Azure DevOps URL)
 
 Don't confuse the team name with the project name, a common mistake. If the URL you use is "http://dev.azure.com/Microsoft-UK/AzureDevOpsTeam/Database", then Microsoft-UK is the Organization Name, AzureDevOpsTeam is the Project name, Database is the team name.
 
