@@ -8,7 +8,8 @@ This dashboard is for all Agile teams using Azure DevOps, Azure DevOps Server an
   - [FlowViz - Project](https://github.com/nbrown02/FlowViz/raw/main/FlowViz%20(Project).pbit) (for a single Project)
   - [FlowViz - Team](https://github.com/nbrown02/FlowViz/raw/main/FlowViz%20(Project).pbit) (for a single team within a Project)
 * Then you're good to get started!
-* Please note: I don’t store, use or have access to any of your data/information. It’s all within your machines/network :)
+
+Please note: I do not store, use or have access to any of your data/information. It’s all within your machines/network :)
 
 ### Connectivity
 * Open the .pbit file
