@@ -8,7 +8,6 @@ The FlowViz template for ADO is provided **free of charge** as an open-source re
 
 The FlowViz template does **not**:
 - Collect, store, or transmit any user, company, or ADO instance data.
-- Require or request access to your ADO API, authentication tokens, or user credentials.
 - Include any code that tracks usage or connects to external services.
 
 Since this template is purely a configuration file, there is **no personal data processing, tracking, or analytics** involved.
