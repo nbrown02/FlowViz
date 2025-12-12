@@ -2,13 +2,13 @@
 
 ## Introduction
 
-The FlowViz template for Jira is provided **free of charge** as an open-source resource to help teams visualize their workflow metrics. This template is a **static configuration file** and does **not** interact with user data, Jira instances, or external systems.
+The FlowViz template for ADO is provided **free of charge** as an open-source resource to help teams visualize their workflow metrics. This template is a **static configuration file** and does **not** interact with user data, ADO instances, or external systems.
 
 ## Data Collection and Usage
 
 The FlowViz template does **not**:
-- Collect, store, or transmit any user, company, or Jira instance data.
-- Require or request access to Jira API, authentication tokens, or user credentials.
+- Collect, store, or transmit any user, company, or ADO instance data.
+- Require or request access to your ADO API, authentication tokens, or user credentials.
 - Include any code that tracks usage or connects to external services.
 
 Since this template is purely a configuration file, there is **no personal data processing, tracking, or analytics** involved.
@@ -19,9 +19,9 @@ This template does not rely on any third-party services, integrations, or depend
 
 ## Your Responsibilities
 
-- Users are responsible for reviewing the template before applying it to their Jira instance.
+- Users are responsible for reviewing the template before applying it to their ADO instance.
 - Any modifications or extensions made by users are **outside the scope** of this privacy policy.
-- If using this template in a shared or corporate Jira environment, ensure compliance with internal data policies.
+- If using this template in a shared or corporate ADO environment, ensure compliance with internal data policies.
 
 ## Changes to this Privacy Policy
 
@@ -29,4 +29,4 @@ As this template does not process or collect any data, changes to this privacy p
 
 ## Contact
 
-For any privacy-related inquiries, please open an issue in the repository: [GitHub Issues](https://github.com/nbrown02/FlowViz-Jira/issues).
+For any privacy-related inquiries, please open an issue in the repository: [GitHub Issues](https://github.com/nbrown02/FlowViz/issues).
