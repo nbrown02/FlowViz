@@ -8,6 +8,7 @@ This dashboard is for all Agile teams using Azure DevOps, Azure DevOps Server an
   - [FlowViz - Project](https://github.com/nbrown02/FlowViz/raw/main/FlowViz%20(Project).pbit) (for a single Project)
   - [FlowViz - Team](https://github.com/nbrown02/FlowViz/raw/refs/heads/main/FlowViz%20(Project%20-%20Team%20filter).pbit) (for a single team within a Project)
 * Then you're good to get started!
+* If you are a Mac user (or a user unable to install Power BI desktop) you can use the web-based template app [here](https://marketplace.microsoft.com/en-us/product/power-bi/thrivvepartners1747925071876.flowviz_ado?tab=Overview)
 
 Please note: I do not store, use or have access to any of your data/information. It’s all within your machines/network :)
 
