@@ -89,7 +89,7 @@ The `clientId` is always `eb55ace0-b1c9-4a23-a4ec-676a241c0a16` -- this is the s
 From the root of this repository:
 
 ```bash
-cd mcp-server
+cd FlowViz-MCP
 npm install
 npm run build
 ```
@@ -104,7 +104,7 @@ Open your Claude Desktop settings and find the MCP configuration file (`claude_d
   "mcpServers": {
     "flowviz": {
       "command": "node",
-      "args": ["C:\\path\\to\\FlowViz\\mcp-server\\dist\\index.js"]
+      "args": ["C:\\path\\to\\FlowViz\\FlowViz-MCP\\dist\\index.js"]
     }
   }
 }
@@ -116,7 +116,7 @@ Open your Claude Desktop settings and find the MCP configuration file (`claude_d
   "mcpServers": {
     "flowviz": {
       "command": "node",
-      "args": ["/path/to/FlowViz/mcp-server/dist/index.js"]
+      "args": ["/path/to/FlowViz/FlowViz-MCP/dist/index.js"]
     }
   }
 }
