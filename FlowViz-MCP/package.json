@@ -1,0 +1,37 @@
+{
+  "name": "flowviz-mcp",
+  "version": "0.1.0",
+  "description": "MCP server for querying FlowViz flow metrics from Power BI datasets",
+  "type": "module",
+  "bin": {
+    "flowviz-mcp": "./dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "tsx src/index.ts"
+  },
+  "keywords": [
+    "mcp",
+    "flowviz",
+    "flow-metrics",
+    "azure-devops",
+    "jira",
+    "power-bi"
+  ],
+  "author": "Nicolas Brown",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.29.0",
+    "@azure/msal-node": "^2.16.0",
+    "zod": "^3.24.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.0.0",
+    "typescript": "^5.7.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
